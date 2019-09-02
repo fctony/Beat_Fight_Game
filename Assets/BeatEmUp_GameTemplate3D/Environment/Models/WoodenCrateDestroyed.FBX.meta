@@ -1,0 +1,433 @@
+fileFormatVersion: 2
+guid: ba22213433f21f74ea172b0dad3fbd52
+timeCreated: 1500981433
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Crate
+    100002: Crate002
+    100004: Plank006
+    100006: Plank007
+    100008: Plank008
+    100010: Plank009
+    100012: Plank010
+    100014: Plank011
+    100016: Plank012
+    100018: Plank013
+    100020: Plank014
+    100022: Plank015
+    100024: Plank016
+    100026: Plank017
+    100028: Plank018
+    100030: Plank019
+    100032: Plank020
+    100034: Plank021
+    100036: Plank022
+    100038: Plank1
+    100040: Splinter003
+    100042: Splinter004
+    100044: Splinter005
+    100046: Splinter006
+    100048: Splinter007
+    100050: Splinter008
+    100052: Splinter009
+    100054: Splinter010
+    100056: Splinter011
+    100058: Splinter012
+    100060: Splinter013
+    100062: Splinter014
+    100064: Splinter015
+    100066: Splinter016
+    100068: Splinter017
+    100070: Splinter018
+    100072: Splinter019
+    100074: Splinter020
+    100076: Splinter021
+    100078: Splinter022
+    100080: Splinter023
+    100082: Splinter024
+    100084: Splinter025
+    100086: Splinter026
+    100088: Splinter027
+    100090: Splinter1
+    100092: //RootNode
+    400000: Crate
+    400002: Crate002
+    400004: Plank006
+    400006: Plank007
+    400008: Plank008
+    400010: Plank009
+    400012: Plank010
+    400014: Plank011
+    400016: Plank012
+    400018: Plank013
+    400020: Plank014
+    400022: Plank015
+    400024: Plank016
+    400026: Plank017
+    400028: Plank018
+    400030: Plank019
+    400032: Plank020
+    400034: Plank021
+    400036: Plank022
+    400038: Plank1
+    400040: Splinter003
+    400042: Splinter004
+    400044: Splinter005
+    400046: Splinter006
+    400048: Splinter007
+    400050: Splinter008
+    400052: Splinter009
+    400054: Splinter010
+    400056: Splinter011
+    400058: Splinter012
+    400060: Splinter013
+    400062: Splinter014
+    400064: Splinter015
+    400066: Splinter016
+    400068: Splinter017
+    400070: Splinter018
+    400072: Splinter019
+    400074: Splinter020
+    400076: Splinter021
+    400078: Splinter022
+    400080: Splinter023
+    400082: Splinter024
+    400084: Splinter025
+    400086: Splinter026
+    400088: Splinter027
+    400090: Splinter1
+    400092: //RootNode
+    2300000: Crate
+    2300002: Crate002
+    2300004: Plank006
+    2300006: Plank007
+    2300008: Plank008
+    2300010: Plank009
+    2300012: Plank010
+    2300014: Plank011
+    2300016: Plank012
+    2300018: Plank013
+    2300020: Plank014
+    2300022: Plank015
+    2300024: Plank016
+    2300026: Plank017
+    2300028: Plank018
+    2300030: Plank019
+    2300032: Plank020
+    2300034: Plank021
+    2300036: Plank022
+    2300038: Plank1
+    2300040: Splinter003
+    2300042: Splinter004
+    2300044: Splinter005
+    2300046: Splinter006
+    2300048: Splinter007
+    2300050: Splinter008
+    2300052: Splinter009
+    2300054: Splinter010
+    2300056: Splinter011
+    2300058: Splinter012
+    2300060: Splinter013
+    2300062: Splinter014
+    2300064: Splinter015
+    2300066: Splinter016
+    2300068: Splinter017
+    2300070: Splinter018
+    2300072: Splinter019
+    2300074: Splinter020
+    2300076: Splinter021
+    2300078: Splinter022
+    2300080: Splinter023
+    2300082: Splinter024
+    2300084: Splinter025
+    2300086: Splinter026
+    2300088: Splinter027
+    2300090: Splinter1
+    3300000: Crate
+    3300002: Crate002
+    3300004: Plank006
+    3300006: Plank007
+    3300008: Plank008
+    3300010: Plank009
+    3300012: Plank010
+    3300014: Plank011
+    3300016: Plank012
+    3300018: Plank013
+    3300020: Plank014
+    3300022: Plank015
+    3300024: Plank016
+    3300026: Plank017
+    3300028: Plank018
+    3300030: Plank019
+    3300032: Plank020
+    3300034: Plank021
+    3300036: Plank022
+    3300038: Plank1
+    3300040: Splinter003
+    3300042: Splinter004
+    3300044: Splinter005
+    3300046: Splinter006
+    3300048: Splinter007
+    3300050: Splinter008
+    3300052: Splinter009
+    3300054: Splinter010
+    3300056: Splinter011
+    3300058: Splinter012
+    3300060: Splinter013
+    3300062: Splinter014
+    3300064: Splinter015
+    3300066: Splinter016
+    3300068: Splinter017
+    3300070: Splinter018
+    3300072: Splinter019
+    3300074: Splinter020
+    3300076: Splinter021
+    3300078: Splinter022
+    3300080: Splinter023
+    3300082: Splinter024
+    3300084: Splinter025
+    3300086: Splinter026
+    3300088: Splinter027
+    3300090: Splinter1
+    4300000: Crate
+    4300002: Crate002
+    4300004: Plank1
+    4300006: Splinter1
+    4300008: Splinter003
+    4300010: Splinter004
+    4300012: Splinter005
+    4300014: Splinter006
+    4300016: Splinter007
+    4300018: Plank006
+    4300020: Plank007
+    4300022: Plank008
+    4300024: Plank009
+    4300026: Plank010
+    4300028: Plank011
+    4300030: Splinter008
+    4300032: Splinter009
+    4300034: Splinter010
+    4300036: Splinter011
+    4300038: Splinter012
+    4300040: Splinter013
+    4300042: Splinter014
+    4300044: Plank012
+    4300046: Plank013
+    4300048: Plank014
+    4300050: Splinter015
+    4300052: Splinter016
+    4300054: Splinter017
+    4300056: Splinter018
+    4300058: Splinter019
+    4300060: Splinter020
+    4300062: Plank015
+    4300064: Plank016
+    4300066: Plank017
+    4300068: Plank018
+    4300070: Plank019
+    4300072: Plank020
+    4300074: Splinter021
+    4300076: Splinter022
+    4300078: Splinter023
+    4300080: Splinter024
+    4300082: Splinter025
+    4300084: Splinter026
+    4300086: Splinter027
+    4300088: Plank021
+    4300090: Plank022
+    7400000: WoodenCrateDestroy
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: WoodenCrateDestroy
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Crate
+        weight: 1
+      - path: Crate002
+        weight: 1
+      - path: Plank1
+        weight: 1
+      - path: Plank006
+        weight: 1
+      - path: Plank007
+        weight: 1
+      - path: Plank008
+        weight: 1
+      - path: Plank009
+        weight: 1
+      - path: Plank010
+        weight: 1
+      - path: Plank011
+        weight: 1
+      - path: Plank012
+        weight: 1
+      - path: Plank013
+        weight: 1
+      - path: Plank014
+        weight: 1
+      - path: Plank015
+        weight: 1
+      - path: Plank016
+        weight: 1
+      - path: Plank017
+        weight: 1
+      - path: Plank018
+        weight: 1
+      - path: Plank019
+        weight: 1
+      - path: Plank020
+        weight: 1
+      - path: Plank021
+        weight: 1
+      - path: Plank022
+        weight: 1
+      - path: Splinter1
+        weight: 1
+      - path: Splinter003
+        weight: 1
+      - path: Splinter004
+        weight: 1
+      - path: Splinter005
+        weight: 1
+      - path: Splinter006
+        weight: 1
+      - path: Splinter007
+        weight: 1
+      - path: Splinter008
+        weight: 1
+      - path: Splinter009
+        weight: 1
+      - path: Splinter010
+        weight: 1
+      - path: Splinter011
+        weight: 1
+      - path: Splinter012
+        weight: 1
+      - path: Splinter013
+        weight: 1
+      - path: Splinter014
+        weight: 1
+      - path: Splinter015
+        weight: 1
+      - path: Splinter016
+        weight: 1
+      - path: Splinter017
+        weight: 1
+      - path: Splinter018
+        weight: 1
+      - path: Splinter019
+        weight: 1
+      - path: Splinter020
+        weight: 1
+      - path: Splinter021
+        weight: 1
+      - path: Splinter022
+        weight: 1
+      - path: Splinter023
+        weight: 1
+      - path: Splinter024
+        weight: 1
+      - path: Splinter025
+        weight: 1
+      - path: Splinter026
+        weight: 1
+      - path: Splinter027
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

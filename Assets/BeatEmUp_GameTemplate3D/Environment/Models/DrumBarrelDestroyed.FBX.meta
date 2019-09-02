@@ -1,0 +1,259 @@
+fileFormatVersion: 2
+guid: 19f50c0ab119b90479939416eabd5557
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: DrumBarrelBottom
+    100002: //RootNode
+    100004: DrumBarrelTop
+    100006: Scrap009
+    100008: Scrap010
+    100010: Scrap011
+    100012: Scrap012
+    100014: Scrap013
+    100016: Scrap014
+    100018: Scrap015
+    100020: Scrap016
+    100022: Scrap017
+    100024: Scrap1
+    100026: Scrap2
+    100028: Scrap3
+    100030: Scrap4
+    100032: Scrap5
+    100034: Scrap6
+    100036: Scrap7
+    100038: Scrap8
+    400000: DrumBarrelBottom
+    400002: //RootNode
+    400004: DrumBarrelTop
+    400006: Scrap009
+    400008: Scrap010
+    400010: Scrap011
+    400012: Scrap012
+    400014: Scrap013
+    400016: Scrap014
+    400018: Scrap015
+    400020: Scrap016
+    400022: Scrap017
+    400024: Scrap1
+    400026: Scrap2
+    400028: Scrap3
+    400030: Scrap4
+    400032: Scrap5
+    400034: Scrap6
+    400036: Scrap7
+    400038: Scrap8
+    2300000: DrumBarrelBottom
+    2300002: DrumBarrelTop
+    2300004: Scrap009
+    2300006: Scrap010
+    2300008: Scrap011
+    2300010: Scrap012
+    2300012: Scrap013
+    2300014: Scrap014
+    2300016: Scrap015
+    2300018: Scrap016
+    2300020: Scrap017
+    2300022: Scrap1
+    2300024: Scrap2
+    2300026: Scrap3
+    2300028: Scrap4
+    2300030: Scrap5
+    2300032: Scrap6
+    2300034: Scrap7
+    2300036: Scrap8
+    3300000: DrumBarrelBottom
+    3300002: DrumBarrelTop
+    3300004: Scrap009
+    3300006: Scrap010
+    3300008: Scrap011
+    3300010: Scrap012
+    3300012: Scrap013
+    3300014: Scrap014
+    3300016: Scrap015
+    3300018: Scrap016
+    3300020: Scrap017
+    3300022: Scrap1
+    3300024: Scrap2
+    3300026: Scrap3
+    3300028: Scrap4
+    3300030: Scrap5
+    3300032: Scrap6
+    3300034: Scrap7
+    3300036: Scrap8
+    4300000: DrumBarrelBottom
+    4300002: DrumBarrelTop
+    4300004: Scrap1
+    4300006: Scrap2
+    4300008: Scrap3
+    4300010: Scrap4
+    4300012: Scrap5
+    4300014: Scrap6
+    4300016: Scrap7
+    4300018: Scrap8
+    4300020: Scrap009
+    4300022: Scrap010
+    4300024: Scrap011
+    4300026: Scrap012
+    4300028: Scrap013
+    4300030: Scrap014
+    4300032: Scrap015
+    4300034: Scrap016
+    4300036: Scrap017
+    7400000: DrumBarrelDestroyed
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: DrumBarrelDestroyed
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 63
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DrumBarrelBottom
+        weight: 1
+      - path: DrumBarrelTop
+        weight: 1
+      - path: Scrap1
+        weight: 1
+      - path: Scrap2
+        weight: 1
+      - path: Scrap3
+        weight: 1
+      - path: Scrap4
+        weight: 1
+      - path: Scrap5
+        weight: 1
+      - path: Scrap6
+        weight: 1
+      - path: Scrap7
+        weight: 1
+      - path: Scrap8
+        weight: 1
+      - path: Scrap009
+        weight: 1
+      - path: Scrap010
+        weight: 1
+      - path: Scrap011
+        weight: 1
+      - path: Scrap012
+        weight: 1
+      - path: Scrap013
+        weight: 1
+      - path: Scrap014
+        weight: 1
+      - path: Scrap015
+        weight: 1
+      - path: Scrap016
+        weight: 1
+      - path: Scrap017
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

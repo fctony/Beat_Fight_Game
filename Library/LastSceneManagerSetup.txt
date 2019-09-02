@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/BeatEmUp_GameTemplate3D/CharacterSelection.unity
+  isLoaded: 1
+  isActive: 1

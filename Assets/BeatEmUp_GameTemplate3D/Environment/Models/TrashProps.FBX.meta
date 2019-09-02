@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 56a9e5d3ec4e1d045ad05d326d5980ef
+timeCreated: 1500058469
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CardboardBox1
+    100002: CardboardBox3
+    100004: CardboardBoxes
+    100006: Cylinder001
+    100008: Dumpster
+    100010: GarbageBag
+    100012: Rubble1
+    100014: Rubble2
+    100016: Rubble3
+    100018: Rubble4
+    100020: Rubble5
+    100022: Rubble6
+    100024: //RootNode
+    100026: GarbageBin
+    100028: CardboardBox2
+    400000: CardboardBox1
+    400002: CardboardBox3
+    400004: CardboardBoxes
+    400006: Cylinder001
+    400008: Dumpster
+    400010: GarbageBag
+    400012: Rubble1
+    400014: Rubble2
+    400016: Rubble3
+    400018: Rubble4
+    400020: Rubble5
+    400022: Rubble6
+    400024: //RootNode
+    400026: GarbageBin
+    400028: CardboardBox2
+    2300000: CardboardBox1
+    2300002: CardboardBox3
+    2300004: CardboardBoxes
+    2300006: Cylinder001
+    2300008: Dumpster
+    2300010: GarbageBag
+    2300012: Rubble1
+    2300014: Rubble2
+    2300016: Rubble3
+    2300018: Rubble4
+    2300020: Rubble5
+    2300022: Rubble6
+    2300024: GarbageBin
+    2300026: CardboardBox2
+    3300000: CardboardBox1
+    3300002: CardboardBox3
+    3300004: CardboardBoxes
+    3300006: Cylinder001
+    3300008: Dumpster
+    3300010: GarbageBag
+    3300012: Rubble1
+    3300014: Rubble2
+    3300016: Rubble3
+    3300018: Rubble4
+    3300020: Rubble5
+    3300022: Rubble6
+    3300024: GarbageBin
+    3300026: CardboardBox2
+    4300000: Cylinder001
+    4300002: GarbageBag
+    4300004: Dumpster
+    4300006: CardboardBox1
+    4300008: CardboardBoxes
+    4300010: CardboardBox3
+    4300012: Rubble1
+    4300014: Rubble2
+    4300016: Rubble3
+    4300018: Rubble4
+    4300020: Rubble5
+    4300022: Rubble6
+    4300024: GarbageBin
+    4300026: CardboardBox2
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
